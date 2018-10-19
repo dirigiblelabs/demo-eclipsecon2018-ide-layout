@@ -1,0 +1,5 @@
+{
+	"extensionPoint": "ide-perspective",
+	"module": "ide-layout/perspective.js",
+	"description": "IDE Layout Perspective"
+}
